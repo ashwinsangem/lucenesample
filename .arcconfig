@@ -1,4 +1,4 @@
 {
   "project_id" : "lucenesample",
-  "conduit_uri" : "https://phabricator.localhost/"
+  "conduit_uri" : "http://phabricator.localhost/"
 }
